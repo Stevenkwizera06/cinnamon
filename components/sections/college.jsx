@@ -2,7 +2,7 @@ import React from "react";
 import Button from "../button";
 import Image from "next/image";
 import college from "../../public/icons/college.webp";
-import collegePeople from "../../public/icons/colloge-people.webp"
+import collegePeople from "../../public/icons/colloge-people.webp";
 
 export default function College() {
   return (
@@ -19,7 +19,7 @@ export default function College() {
           </p>
 
           <div className="my-6">
-            <Button title={"See How It works"}/>
+            <Button title={"See How It works"} />
           </div>
         </div>
       </div>

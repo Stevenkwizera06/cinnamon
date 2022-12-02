@@ -24,21 +24,21 @@ export default function Services() {
                 "Producing, prototyping and testing sketches, high-fidelity wireframes and the final UI is a process that results in intuitive and impactful design that’s easy on the eyes."
               }
               title={"Product design"}
-            />{" "}
+            />
             <ServiceCard
               image={development}
               description={
                 "By selecting the befitting tech stack and architecture for the deliverable in question, we build out the product until it's a fully-fledged digital solution."
               }
               title={"Development"}
-            />{" "}
+            />
             <ServiceCard
               image={quality}
               description={
                 "Our QA engineering team makes your product bug-free, bulletproof and performance-driven through both automatic and manual testing."
               }
               title={"Quality assurance"}
-            />{" "}
+            />
             <ServiceCard
               image={marketing}
               description={

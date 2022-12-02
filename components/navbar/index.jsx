@@ -19,19 +19,19 @@ function Navbar() {
               <li>Projects</li>
             </Link>
 
-            <Link href="/service">
+            <Link href="/services">
               <li>Services</li>
             </Link>
 
-            <Link href="/about">
+            <Link href="/AboutUs">
               <li>About Us</li>
             </Link>
 
-            <Link href="/career">
+            <Link href="/Careers">
               <li>Carrers</li>
             </Link>
 
-            <Link href="/blog">
+            <Link href="/Blog">
               <li>Blog</li>
             </Link>
           </ul>

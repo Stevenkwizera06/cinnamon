@@ -17,7 +17,12 @@ module.exports = {
         cinnamonextralight: "cinnamonextralight",
         cinnamonsemibold: "cinnamonsemibold",
         cinnamonextrabold: "cinnamonextrabold"
-      }
+      },
+      lineHeight: {
+        3.125: "3.125rem",
+        3.75: "3.75rem",
+        3.625: "3.625rem",
+      },
     },
   },
   plugins: [],
