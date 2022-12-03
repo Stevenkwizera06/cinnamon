@@ -1,9 +1,9 @@
 import Image from "next/image";
 
-function ProductCard({image, description, title }) {
+function ProductCard({image, description, title,background }) {
   return (
     <div className="lg:my-32 my-16">
-      <div>
+      <div className={`${background}`} >
         <Image
           src={image}
           className="group-hover:scale-105 transition-all duration-500"
@@ -11,7 +11,6 @@ function ProductCard({image, description, title }) {
         />
       </div>
       <div className="my-10">
-        
         <h4
           className="text-4xl leading-3.125 font-MontBold "  
         >{title}</h4>

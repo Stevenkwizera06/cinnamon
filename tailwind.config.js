@@ -12,6 +12,10 @@ module.exports = {
       backgroundImage: {
         hero: "url('../public/images/background.png')",
       },
+      backgroundColor:{
+        indigo:"#4b1d78",
+        'primary-yellow':"#f9edce"
+      },
       fontFamily:{
         cinnamonbold: "cinnamonbold",
         cinnamonextralight: "cinnamonextralight",
